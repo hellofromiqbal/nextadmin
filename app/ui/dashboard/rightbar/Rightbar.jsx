@@ -3,7 +3,7 @@ import styles from './rightbar.module.css';
 
 const Rightbar = () => {
   return (
-    <div>Rightbar</div>
+    <div className={styles.container}>Rightbar</div>
   )
 };
 

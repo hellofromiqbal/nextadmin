@@ -3,7 +3,7 @@ import styles from './chart.module.css';
 
 const Chart = () => {
   return (
-    <div>Chart</div>
+    <div className={styles.container}>Chart</div>
   )
 };
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './transacions.module.css';
+import styles from './transactions.module.css';
 
 const Transactions = () => {
   return (
